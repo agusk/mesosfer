@@ -1,0 +1,9 @@
+{
+    "name": "mesosfer-demo",
+    "description": "simple app for mesosfer application. agus kurniawan.",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {        
+        "mqtt": "latest"
+    }
+}
